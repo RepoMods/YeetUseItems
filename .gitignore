@@ -1,0 +1,10 @@
+## Output ##
+bin
+obj
+
+## Rider ##
+.idea
+*.DotSettings.user
+
+## R.E.P.O. Modding ##
+Directory.Repo.props
